@@ -24,7 +24,8 @@ A análise foi construída em cima do dataset `gym_members_exercise_tracking.csv
 
 ## Como Executar o Projeto
 
-1. Clone este repositório para a sua máquina local:
+-  Clone este repositório para a sua máquina local:
+  
    ```bash
    git clone https://github.com/ghfreiree/fitness-data-insights.git
   ``
