@@ -20,7 +20,7 @@ Durante a exploração dos dados, padrões muito claros de progressão foram ide
 * **O Peso da Constância:** Os dados revelaram que a diferença de percentual de gordura entre um atleta intermediário e um experiente é estatisticamente muito semelhante à diferença entre pessoas que treinam **3 vezes na semana versus 5 vezes na semana**. 
 
 ## Sobre o Conjunto de Dados
-A análise foi construída em cima do dataset `gym_members_exercise_tracking.csv`, que contém registros sobre a rotina de exercícios, nível de experiência e métricas corporais dos usuários.
+A análise foi construída em cima do dataset `gym_members_exercise_tracking.csv` encontrado no Kaggle, que contém registros sobre a rotina de exercícios, nível de experiência, métricas corporais e outras informações relevantes dos atletas.
 
 ## Como Executar o Projeto
 
