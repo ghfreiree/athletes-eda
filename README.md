@@ -30,4 +30,4 @@ A análise foi construída em cima do dataset `gym_members_exercise_tracking.csv
    git clone https://github.com/ghfreiree/fitness-data-insights.git
    
   ---
-   **Projeto desenvolvido como parte do portfólio de estudos em Data Science**
+*Desenvolvido com dedicação para aprofundamento em Data Science*
