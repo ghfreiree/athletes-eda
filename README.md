@@ -8,7 +8,7 @@ Através da manipulação de dados e criação de visualizações, o projeto ext
 ## Objetivo
 Identificar os fatores determinantes para a redução do índice de gordura (BF) utilizando técnicas de Data Science para fundamentar as análises.
 
-## 🛠️ Tecnologias e Bibliotecas Utilizadas
+## Tecnologias e Bibliotecas Utilizadas
 * **Linguagem:** Python
 * **Manipulação de Dados:** Pandas
 * **Visualização de Dados:** Matplotlib, Seaborn
