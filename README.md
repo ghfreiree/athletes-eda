@@ -20,7 +20,6 @@ Através da manipulação de dados e criação de visualizações, o projeto ext
   <img src="images/download (25).png" alt="Gráfico Dispersão de BF por Modalidade" width="500">
   <img src="images/download (22).png" alt="Gráfico Relação Duração do Treino vs BF" width="500">
   <img src="images/download (23).png" alt="Gráfico Média de BF por Frequência de Treino" width="500">
-  <img src="images/download (24).png" alt="Gráfico Média de BF por Nível de Experiência" width="500">
 </p>
 
 ## Principais Insights
