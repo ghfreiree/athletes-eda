@@ -1,4 +1,4 @@
-# Fitness Data Insights: Análise de Composição Corporal
+# Athletes EDA
 
 Este projeto realiza uma Análise Exploratória de Dados (EDA) em uma base de dados contendo métricas de treino, atributos físicos e indicadores de saúde de 973 membros de academia. O foco central da investigação é identificar quais características demográficas, fisiológicas e hábitos de treino possuem maior associação estatística com a redução do **Percentual de Gordura Corporal (`Fat_Percentage`)**.
 
@@ -76,5 +76,3 @@ Segmentação das médias reais de BF agrupadas por variáveis estruturais, quan
 * **Pandas:** Manipulação de dados e cálculo de matrizes estatísticas.
 * **Matplotlib & Seaborn:** Criação de visualizações avançadas, mapas de calor, boxplots e subplots automatizados.
 * **Jupyter Notebook / Google Colab:** Ambiente de desenvolvimento interativo.
-
----
